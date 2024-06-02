@@ -75,7 +75,7 @@ class Events {
     {
         songName = name;
 
-        switch (songName)
+        switch (songName) //slily popo david
         {
 			case "Befriended":
 				initLyrics("Can you hear me?", [0, 0], FlxColor.WHITE, 70, CENTER, true);
